@@ -13,3 +13,11 @@ The Scripts included are:
 6. User Group Membership Report - OutPut to a CSV file a list of users and the groups they're apart of. 
 7. Security Log Export - This allows you to easily export a list of security instances to an easy to read CSV (e.g. Access Logs.)
 
+## Network Administration and Configuration
+
+### Network Configuration and Monitoring
+
+1. Get Network Adaptor - Returns information about your network adaptor.
+2. Get Network Adaptor Stats - Returns stats about your network adaptor
+3. Manage IP - Manage your IP configuration (both static and DHCP)
+4. Network Latency - Check your network latency. 
